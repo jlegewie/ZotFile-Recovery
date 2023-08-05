@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "ZotFileRecovery@jlegewie.com": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://github.com/jlegewie/ZotFile-Recovery/releases/download/v0.2.0/ZotFileRecovery-0.2.0-fx.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "7.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
