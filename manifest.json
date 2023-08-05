@@ -7,7 +7,7 @@
   "applications": {
     "zotero": {
       "id": "ZotFileRecovery@jlegewie.com",
-      "update_url": "https://raw.githubusercontent.com/jlegewie/ZotFileRecovery/master/updates.json",
+      "update_url": "https://raw.githubusercontent.com/jlegewie/ZotFile-Recovery/main/updates.json",
       "strict_min_version": "6.999",
       "strict_max_version": "7.0.*"
     }
